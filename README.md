@@ -1,2 +1,2 @@
 # TicTacToeGui
-Game of TicTacToe
+Game of TicTacToe with GUI
